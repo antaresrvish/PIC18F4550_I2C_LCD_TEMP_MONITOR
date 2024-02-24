@@ -22,3 +22,5 @@ Monitoring the temperatures of two ntc thermistors (inside-outside)
 
 ## Schematic
 
+![Alt text](/Images/schematic.png?raw=true "Optional Title")
+
